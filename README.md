@@ -9,6 +9,8 @@ LAB - 04 : https://github.com/2303A52487/AIML-2303A52487/blob/main/AIML_LAB_04.i
 
 LAB - 05 : https://github.com/2303A52487/AIML-2303A52487/blob/main/AIML_LAB_05.ipynb
 
+LAB - 06 : https://github.com/2303A52487/AIML-2303A52487/blob/main/AIML_LAB_06.ipynb
+
 LAB - 07 : https://github.com/2303A52487/AIML-2303A52487/blob/main/AIML_LAB_07.ipynb
 
 LAB - 08 : https://github.com/2303A52487/AIML-2303A52487/blob/main/AIML_LAB_08.ipynb
